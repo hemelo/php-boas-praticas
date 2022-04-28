@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Calisthenics\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Calisthenics\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "ext-ds": "*",
+        "phpunit/phpunit": "^9"
+    }
+}

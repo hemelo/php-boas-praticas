@@ -1,0 +1,8 @@
+{
+  "name": "hemelo/solid",
+  "autoload": {
+    "psr-4": {
+      "Solid\\": "src/"
+    }
+  }
+}
