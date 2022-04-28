@@ -2,7 +2,8 @@
 
 Uso de [Behat](https://docs.behat.org/en/latest/) com a extensão [Mink](https://mink.behat.org/en/latest/) nos testes
 
-[BDD - Behavior Driven Development](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
+#### Referências: <br>
+[BDD - Behavior Driven Development](https://pt.wikipedia.org/wiki/Behavior_Driven_Development) <br>
 [TDD - Test Driven Development](https://pt.wikipedia.org/wiki/Test-driven_development)
 
 ## Ambiente necessário
